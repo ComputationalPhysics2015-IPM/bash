@@ -1,2 +1,2 @@
 # bash
-Fork this repository, then colne it, do the exercises, and the send a pull request.
+Fork this repository, colne the fork on your computer, do the exercises, commit and push, and then send a pull request.
