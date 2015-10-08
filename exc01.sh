@@ -3,3 +3,12 @@
 # Then runs a sleep command for each CPU on the background.
 
 
+less /proc/cpuinfo or lscpu
+sleep 99 &
+
+
+
+
+
+
+
