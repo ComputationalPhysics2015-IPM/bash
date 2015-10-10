@@ -3,3 +3,10 @@
 # Then runs a sleep command for each CPU on the background.
 
 
+nproc
+
+for core in $(nproc)
+do
+taskset -c $((core-1)) sleep 10
+done
+
